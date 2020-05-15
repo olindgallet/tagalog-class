@@ -43,7 +43,7 @@ https://www.youtube.com/watch?v=UWeKxl_mI_8
 
 6.0 **marinig**
 
-``to hear```
+```to hear```
 
 6.1 **Hindi kita marinig.**
 
@@ -95,7 +95,7 @@ https://www.youtube.com/watch?v=UWeKxl_mI_8
 
 12.1 **Isipin nating mabuti bago mag-desisyon.**
 
-```Let's think of it thoroughly before making a decision.
+```Let's think of it thoroughly before making a decision.```
 
 13.0 **tumingin**
 
