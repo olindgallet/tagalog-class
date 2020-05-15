@@ -85,7 +85,7 @@ https://www.youtube.com/watch?v=UWeKxl_mI_8
 
 ```No.```
 
-12.0 **Sige. **
+12.0 **Sige.**
 
 ```Okay.```
 
