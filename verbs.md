@@ -125,7 +125,7 @@ https://www.youtube.com/watch?v=UWeKxl_mI_8
 
 ```to use```
 
-16.1 **Hindi natin puwedeng gamitin ang may nakasula na "Bawal Gamitin."
+16.1 **Hindi natin puwedeng gamitin ang may nakasula na "Bawal Gamitin."**  
 
 ```We can't use the ones which are marked "Don't Use."```
 
@@ -185,7 +185,7 @@ https://www.youtube.com/watch?v=UWeKxl_mI_8
 
 ```Why don't you try it before you say that you can't?```
 
-24.0 **mag-iwant**
+24.0 **mag-iwan**
 
 ```to leave```
 
